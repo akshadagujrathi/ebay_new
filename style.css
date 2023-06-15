@@ -527,7 +527,7 @@ td {
 
 .section-5 {
     display: none;
-    background-image: url('./Assets/section-5.png');
+    background-image: url('./section-5.png');
     background-size: 100% 100%;
     width: 100%;
     display: flex;
@@ -755,15 +755,15 @@ footer a {
 }
 
 .slide-1 {
-    background-image: url('./Assets/01.png') !important;
+    background-image: url('./01.png') !important;
 }
 
 .slide-2 {
-    background-image: url('./Assets/bgimg-2.png') !important;
+    background-image: url('./bgimg-2.png') !important;
 }
 
 .slide-3 {
-    background-image: url('./Assets/02.png') !important;
+    background-image: url('./02.png') !important;
 }
 
 section.image-slider.banner-1 {
