@@ -997,7 +997,7 @@ section.image-slider.banner-1 {
     }
 
     details.table-details[open] {
-        min-height: 240px !important;
+        min-height: 257px !important;
 
     }
 }
