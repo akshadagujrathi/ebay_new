@@ -10,7 +10,7 @@ p {
     font-family: 'Rajdhani', sans-serif !important;
 }
 .radio {
-    display: none;
+    display: none !important;
 }
 body {
     padding: 0;
